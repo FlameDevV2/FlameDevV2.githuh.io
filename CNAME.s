@@ -1,0 +1,1 @@
+launcher.magma.me
