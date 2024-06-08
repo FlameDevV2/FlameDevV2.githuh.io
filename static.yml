@@ -1,7 +1,0 @@
-#for cname
-defaults:
-  - scope:
-      path: ""
-      type: "cname"
-    values:
-      - lc.magma.me
