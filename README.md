@@ -11,9 +11,4 @@ To get Magma Launcher:
 3. Use your preferred build tools to compile the project.
 4. Run the launcher executable to start enjoying its features.
 
-## Usage
-
-Simply host Magma Launcher and start using it to play Eaglercraft!
-
-
  ![alt text](https://github.com/FlameDevV2/Magma-Launcher/blob/fc9fe72427c2d807ef89bbfabf26355ad4dffc33/Magma%20Launcherv1.png)
