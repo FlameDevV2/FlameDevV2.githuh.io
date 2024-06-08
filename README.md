@@ -19,4 +19,4 @@ Simply host Magma Launcher and start using it to play Eaglercraft!
 
 Contributions to Magma Launcher are encouraged! If you have any ideas for improvements or encounter issues, feel free to submit a pull request or open an issue on the repository. Your input helps make Magma Launcher better for all players!
 
-![image](Image URL)
+![image](Magma Launcherv1.png)
