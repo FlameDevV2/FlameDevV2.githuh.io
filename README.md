@@ -1,6 +1,6 @@
 ## Magma Launcher 
 
-Magma Launcher is one of the earliest Eaglercraft Launchers, designed for easy hosting and universal usage. Its latest version is 2.2 with minor changes and music.
+Magma Launcher is one of the earliest Eaglercraft Launchers, designed for easy hosting and universal usage. Its latest version is 2.3 with bug fixes and etc.
 
 ## Installation
 
